@@ -1063,6 +1063,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Europe
 
+### Megan Bloemsma
+- [@BloemsmaMegan](http://twitter.com/bloemsmamegan)
+- [Personal Website](http://meganbloemsma.com)
+- [LinkedIn](https://www.linkedin.com/in/meganbloemsma)
+- Topics - Data Science, Machine Learning, MLops
+- Location - Eindhoven, the Netherlands
+
 ### María Arias de Reyna Domínguez
 
 - [@delawen](http://twitter.com/delawen)
